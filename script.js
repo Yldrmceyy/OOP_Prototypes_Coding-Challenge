@@ -37,6 +37,8 @@ bmw.accelerate();
 bmw.accelerate();
 bmw.brake();
 bmw.accelerate();
+bmw.brake();
+bmw.brake();
 
 mercedes.brake();
 mercedes.brake();
