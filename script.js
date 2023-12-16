@@ -38,6 +38,11 @@ bmw.accelerate();
 bmw.brake();
 bmw.accelerate();
 
+mercedes.brake();
+mercedes.brake();
+mercedes.accelerate();
+mercedes.accelerate();
+mercedes.accelerate();
 
 
 
